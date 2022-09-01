@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML/CSS/JS/REACT
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @PRecijagz480@gmail.com
+- 📫 How to reach me @precijagz480@gmail.com
 
 <!---
 mrrpablo/mrrpablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
